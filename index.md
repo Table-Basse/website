@@ -1,7 +1,8 @@
-## Bienvenue chez la Table Basse
+# Bienvenue chez la Table Basse
 
-La Table Basse est un projet d'habitat participatif autour de Rennes.
+## La Table Basse est un projet d'habitat participatif autour de Rennes.
 
+Salut à toi, ô visiteur
 
 ### Notre socle commun
 
