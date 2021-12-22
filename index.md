@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Bienvenue chez la Table Basse
 
-You can use the [editor on GitHub](https://github.com/Table-Basse/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+La Table Basse est un projet d'habitat participatif autour de Rennes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Notre socle commun
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Savoir vivre ensemble
+ - Savoir vivre avec l'environnement
+ - Savoir prendre des décisions ensemble
 
-```markdown
-Syntax highlighted code block
+### Ce qu'il nous reste à faire
 
-# Header 1
-## Header 2
-### Header 3
+ - Trouver un lieu
+ - Trouver des habitant·es
+ - Un vrai site web
+ - Prendre contact avec un·e architecte
+ - Prendre contact avec un·e notaire
 
-- Bulleted
-- List
+### Qui on est
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Table-Basse/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Deux familles avec deux enfants chacun
+ - Qui cherchons un lieu pour 4 à 8 foyers proche de Rennes
